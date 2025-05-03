@@ -5,7 +5,7 @@ This repository ports the **Sony Xperia E Dual (C1605) firmware (11.1.A.0.68)** 
 ## Flashable ZIP File
 You can download the latest **flashable ZIP** of the custom ROM from the following link:
 
-- [Download Flashable ZIP](#)  *(https://mega.nz/folder/1pZ1AQQS#nseOp0sfW6Fgzkpa5fBRXw)*
+- [Download Flashable ZIP]([#](https://mega.nz/folder/1pZ1AQQS#nseOp0sfW6Fgzkpa5fBRXw))  *(https://mega.nz/folder/1pZ1AQQS#nseOp0sfW6Fgzkpa5fBRXw)*
 
 ## How to Flash via CWM Recovery
 
