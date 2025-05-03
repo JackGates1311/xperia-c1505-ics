@@ -21,7 +21,8 @@ You can download the latest **flashable ZIP** of the custom ROM from the followi
 
 1. **Boot into Recovery Mode:**
    - Power off your Xperia C1505.
-   - Press and hold the **Volume Up** button, then power on the device to enter **CWM/TWRP recovery**.
+   - Power on your Xperia C1505. 
+   - Press the **Volume Up** button multiple times, then power on the device to enter **CWM/TWRP recovery**.
 
 2. **Wipe Data and Cache:**
    - In CWM, go to **Wipe** and select **Wipe data/factory reset**.
