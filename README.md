@@ -25,7 +25,7 @@ You can download the latest **flashable ZIP** of the custom ROM from the followi
    - Press the **Volume Up** button multiple times, then power on the device to enter **CWM/TWRP recovery**.
 
 2. **Wipe Data and Cache:**
-   - In CWM, go to **Wipe** and select **Wipe data/factory reset**.
+   - In CWM/TWRP, go to **Wipe** and select **Wipe data/factory reset**.
    - Then go to **Wipe cache partition** and clear the cache.
    - Then go to **Wipe system partition** and clear the system data.
 
