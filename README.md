@@ -5,7 +5,10 @@ This repository ports the **Sony Xperia E Dual (C1605) firmware (11.1.A.0.68)** 
 ## Flashable ZIP File
 You can download the latest **flashable ZIP** of the custom ROM from the following link:
 
-- [Download Flashable ZIP]([#](https://mega.nz/folder/1pZ1AQQS#nseOp0sfW6Fgzkpa5fBRXw))  *(https://mega.nz/folder/1pZ1AQQS#nseOp0sfW6Fgzkpa5fBRXw)*
+- [Download Flashable ZIP](https://mega.nz/folder/1pZ1AQQS#nseOp0sfW6Fgzkpa5fBRXw)
+
+### Important Notes:
+1. When you open the link, you'll see two directories. **Please select the directory marked as "stable"** and choose the one with the **latest date** listed on the Mega server for the most up-to-date and stable version.
 
 ## How to Flash via CWM Recovery
 
@@ -55,8 +58,8 @@ You can download the latest **flashable ZIP** of the custom ROM from the followi
 
 ## Useful Links:
 
-- [Instructions for Bootloader unlock and recovery flash](https://forum.xda-developers.com/)  *(https://xdaforums.com/t/rom-e-ss-ds-ultimate-cm10-install-guide.2690057)*
-- [XDA Forum for Xperia E](https://forum.xda-developers.com/sony-xperia-e) *(https://xdaforums.com/t/xperia-e-official-thread-roms-mods-root-ftfs-how-to.2535522/)*
+- [Instructions for Bootloader Unlock and Recovery Flash](https://xdaforums.com/t/rom-e-ss-ds-ultimate-cm10-install-guide.2690057)
+- [XDA Forum for Xperia E](https://xdaforums.com/t/xperia-e-official-thread-roms-mods-root-ftfs-how-to.2535522/)
 
 ---
 
