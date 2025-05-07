@@ -72,3 +72,11 @@ You can download the latest **flashable ZIP** of the custom ROM from the followi
 ## License
 
 This project is licensed under the MIT License
+
+## Kernel source
+
+Kernel source for this ROM can be found [here](https://github.com/JackGates1311/xperia-c1505-ics-kernel)
+
+## System app modifications
+
+System app modifications in SMALI can be found [here]()
