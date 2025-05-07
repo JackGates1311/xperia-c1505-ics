@@ -80,4 +80,5 @@ Kernel source for this ROM can be found [here](https://github.com/JackGates1311/
 ## System app modifications
 
 Settings app modifications in SMALI code can be found [here](https://github.com/JackGates1311/xperia-c1505-ics-settings)
+
 SystemUI app modifications in SMALI code can be found [here](https://github.com/JackGates1311/xperia-c1505-ics-systemui)
