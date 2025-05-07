@@ -82,3 +82,10 @@ Kernel source for this ROM can be found [here](https://github.com/JackGates1311/
 Settings app modifications in SMALI code can be found [here](https://github.com/JackGates1311/xperia-c1505-ics-settings)
 
 SystemUI app modifications in SMALI code can be found [here](https://github.com/JackGates1311/xperia-c1505-ics-systemui)
+
+Framework-res SMALI code can be found [here]([https://github.com/JackGates1311/xperia-c1505-ics-settings](https://github.com/JackGates1311/xperia-c1505-ics-framework))
+
+Other system apps pulled from Xperia Tipo (S12i) can be found [here]([https://github.com/JackGates1311/xperia-c1505-ics-systemui](https://github.com/JackGates1311/xperia-c1505-ics-ported-sys-apps))
+
+Deodexed and odexed system apps can be found[here](https://mega.nz/folder/4oZ0TITI#FSslALyIk8wxTwbLv7nsLQ) 
+
